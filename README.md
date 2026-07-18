@@ -96,7 +96,9 @@ print(f"Fun fact: {me.random_fact()}")
 
 <div align="center">
 
-[![Alper's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpersah11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpersah11&theme=tokyonight)](https://github.com/alpersah11)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alpersah11&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4)](https://git.io/streak-stats)
 
 </div>
 
